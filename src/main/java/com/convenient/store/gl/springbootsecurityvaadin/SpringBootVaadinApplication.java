@@ -1,0 +1,16 @@
+package com.convenient.store.gl.springbootsecurityvaadin;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+/**
+ * 
+ * @author p.ly
+ *
+ */
+@SpringBootApplication
+public class SpringBootVaadinApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootVaadinApplication.class, args);
+	}
+}
